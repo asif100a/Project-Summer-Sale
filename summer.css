@@ -7,3 +7,14 @@ header{
     background-color: #f0ffff;
 }
 
+main > div > div > ul{
+    
+    gap: 24px;
+}
+
+
+ul > li {
+    border-radius: 4px;
+}
+
+
